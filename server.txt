@@ -1,0 +1,10 @@
+live server : http://127.0.0.1:5500/asset2/index.html
+
+api key : 6d884f84
+
+OMDb API :  http://www.omdbapi.com/?i=tt3896198&apikey=6d884f84
+
+jquery(minified) : <script
+  src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+  crossorigin="anonymous"></script>
